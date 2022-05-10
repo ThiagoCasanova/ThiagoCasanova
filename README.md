@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ThiagoCasanova
-- 👀 I’m interested on Learn
-- 🌱 I’m currently learning JS, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello Guys or out.println("Hello World") 👋
 
-<!---
-ThiagoCasanova/ThiagoCasanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Casanova Thiago, and i'm from Brazil(BR). I've been working as Assistant Systems in 2021. Actually i work as a Data Base Assistant, and my routines are on SAP, PL/SQL, PUTTY, Sometimes on Pycharm or VSCode .
