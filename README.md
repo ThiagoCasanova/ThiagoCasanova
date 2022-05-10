@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThiagoCasanova
 - 👀 I’m interested on Learn
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
