@@ -1,5 +1,5 @@
-Hello Guys or System.out.println("Hello World"); 👋
-About Me
+👋 Hello Guys or System.out.println("Hello World"); 
+
 🧒🏻  My name is Thiago Casanova and I'm studying to become a Database Developer.
 
 🎓  I'm currently in the fourth semester of Analysys and Devlopment of Systems, at Cesuca University Center.
