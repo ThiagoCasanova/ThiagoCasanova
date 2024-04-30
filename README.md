@@ -1,4 +1,4 @@
-## Hi Folks ! I'm Casanova Thiago 🍺
+## Hello Everyone ! I'm Casanova Thiago ☕
 
 
 - Systems analysis and development student
