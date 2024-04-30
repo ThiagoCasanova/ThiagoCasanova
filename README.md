@@ -1,10 +1,9 @@
-## Hello Everyone ! I'm Casanova Thiago ☕
-
+## Hello Everyone ! I'm Casanova Thiago ☕ 
 
 - Systems analysis and development student
-- Software Engineer Intern at Portsys 
+- Software Engineer Intern at Portsys
+- Learning and Practicing
 ## 
-
 
 <div align="center">
   <a href="https://github.com/ThiagoCasanova">
