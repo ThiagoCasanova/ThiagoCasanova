@@ -30,6 +30,6 @@
   
  
    
-  <img align="center" alt="thiago-gif" height="400" widht="360" src="https://i.imgur.com/iAEUwOv.mp4">
+  <img align="center" alt="thiago-gif" height="400" widht="360" src="[https://i.imgur.com/iAEUwOv.mp4](https://img.freepik.com/fotos-gratis/vapores-de-cafe-fresco-na-mesa-de-madeira-fecham-a-ia-generativa_188544-8923.jpg)">
   
  
