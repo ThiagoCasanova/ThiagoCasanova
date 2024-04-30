@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/M4rlucCS">
+  <a href="https://github.com/ThiagoCasanova">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCasanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCasanova&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -30,6 +30,6 @@
   
  
    
-  <img align="center" alt="m4rluc-gif" height="400" widht="360" src="https://i.imgur.com/iAEUwOv.mp4">
+  <img align="center" alt="thiago-gif" height="400" widht="360" src="https://i.imgur.com/iAEUwOv.mp4">
   
  
