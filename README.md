@@ -17,9 +17,10 @@
   <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg">
   <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-  <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="ThiagoCasanova-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   
 </div>
   
