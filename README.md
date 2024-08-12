@@ -1,7 +1,7 @@
-## Hello Everyone ! I'm Casanova Thiago ☕ 
+Software Engineer | DESENVOLVEDOR .NET C# | PL/SQL | ERP IFS | JAVASCRIPT |  HTML | CSS 
 
-- Systems analysis and development student
-- Software Engineer Intern at Portsys
+- Gratuated in Systems Analysis and Development 
+- Software Engineer at Portsys
 - Learning and Practicing
 ## 
 
